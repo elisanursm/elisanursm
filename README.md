@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, Welcome to My Github Profile👋
+## Contact me:
+    Email: elisanurmufida@gmail.com
+    Whatsapp: +628 564 923 5815
 
 <!--
 **elisanursm/elisanursm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
