@@ -43,19 +43,10 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elisanursm&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisanursm&layout=compact&theme=tokyonight" />
-</p>
+## 📌 Featured Projects
+- Hybrid BERT-Based Sentiment Analysis with Knowledge Graph  
+- Vehicle Routing Optimization using 2-Opt and Simulated Annealing  
+- Hybrid Routing Optimization for Brochure Distribution in Surabaya  
 
 ---
 
@@ -67,14 +58,10 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ---
 
 ## 📫 Contact Me
-📧 Email: elisanurmufida@gmail.com  
+📧 Email: [elisanurmufida@gmail.com](mailto:elisanurmufida@gmail.com)  
 
-📱 WhatsApp: 
-+62 856-4923-5815  
-
+📱 WhatsApp: +62 856-4923-5815  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285649235815)  
 
-💼 LinkedIn: 
-Elisa Nur Syafiatul Mufida 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisanurmufida)
+💼 LinkedIn: Elisa Nur Syafiatul Mufida  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisanurmufida)  
