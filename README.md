@@ -31,7 +31,7 @@ Passionate about transforming data into actionable insights and building intelli
 ---
 
 ## 📈 GitHub Stats
-![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
