@@ -47,6 +47,9 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=elisanursm&theme=tokyonight" />
 </p>
 
@@ -73,5 +76,5 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 
 💼 LinkedIn: 
 Elisa Nur Syafiatul Mufida 
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisanurmufida)
