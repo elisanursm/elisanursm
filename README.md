@@ -1,16 +1,17 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;NLP+%7C+Knowledge+Graph+Researcher;Machine+Learning+%7C+Optimization+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Advanced+Analytics+%7C+Machine+Learning;NLP+%7C+Knowledge+Graph+%7C+Optimization"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-Data Analyst and Data Scientist with a strong focus on **Natural Language Processing (NLP), Knowledge Graph, and Machine Learning**.  
-Master’s graduate in Information Systems with hands-on experience in **hybrid AI models, graph-based analytics, and optimization problems**.  
+Data Analyst with strong expertise in data-driven analysis and business-oriented problem solving, supported by a solid background in Machine Learning, NLP, and Knowledge Graph.
 
-Experienced in transforming complex data into actionable insights and developing intelligent, data-driven solutions for real-world problems.
+Experienced in transforming complex datasets into actionable insights, building analytical models, and supporting decision-making through data-driven approaches and optimization techniques.
+
+Master’s graduate in Information Systems with hands-on experience in both business analysis and advanced data analytics.
 
 ---
 
@@ -26,11 +27,12 @@ Experienced in transforming complex data into actionable insights and developing
 ---
 
 ## 📊 Core Expertise
-- Hybrid Machine Learning (BERT + SVM / RF)
-- Knowledge Graph Construction & Analysis (GCN)
-- Sentiment Analysis on News Data
-- Optimization Problems (Vehicle Routing, Metaheuristics)
-- Data Analysis & Visualization
+- Data Analysis & Insight Generation  
+- Machine Learning for Predictive Analysis (BERT, SVM, RF)  
+- Sentiment Analysis for Public Opinion Insights  
+- Knowledge Graph & Graph-Based Analysis (GCN)  
+- Optimization & Decision Support (Vehicle Routing, Metaheuristics)  
+- Data Visualization & Reporting  
 
 ---
 
@@ -42,22 +44,26 @@ Experienced in transforming complex data into actionable insights and developing
 ---
 
 ## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=elisanursm&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisanursm&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Open to
-- Data Analyst / Data Scientist roles  
+- Data Analyst / Business Analyst roles  
+- Data-driven decision support and analytics projects  
 - Research collaboration (NLP, Knowledge Graph, Optimization)  
-- AI & Data-driven projects  
 
 ---
 
 ## 📫 Contact Me
 📧 Email: elisanurmufida@gmail.com  
 
+📱 WhatsApp: +62 856-4923-5815  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285649235815)  
+
+💼 LinkedIn: Elisa Nur Syafiatul Mufida  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisanurmufida)
