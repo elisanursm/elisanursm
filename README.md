@@ -1,7 +1,8 @@
 # Hi there 👋
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9CA3AF&size=25&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analytics;Data-driven+Insights+%26+Decision+Support;Data+Science;Machine+Learning+%7C+Knowledge+Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9CA3AF&size=30&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Analytics;Data-driven+Insights+%26+Decision+Support;Data+Science;Machine+Learning+%7C+Knowledge+Graph"/>
 </p>
 
 ---
