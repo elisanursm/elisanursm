@@ -61,7 +61,9 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 
 📧 Email  
 [![Email](https://img.shields.io/badge/-elisanurmufida%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:elisanurmufida@gmail.com)
+
 📱 WhatsApp  
 [![WhatsApp](https://img.shields.io/badge/-+62%20856--4923--5815-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=555555)](https://wa.me/6285649235815)
+
 💼 LinkedIn  
 [![LinkedIn](https://img.shields.io/badge/-Elisa%20Nur%20Syafiatul%20Mufida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/elisanurmufida)
