@@ -45,11 +45,15 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=elisanursm&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=elisanursm&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisanursm&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisanursm&layout=compact&theme=tokyonight)
 ---
 
 ## 🤝 Open to
@@ -62,8 +66,12 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ## 📫 Contact Me
 📧 Email: elisanurmufida@gmail.com  
 
-📱 WhatsApp: +62 856-4923-5815  
+📱 WhatsApp: 
++62 856-4923-5815  
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285649235815)  
 
-💼 LinkedIn: Elisa Nur Syafiatul Mufida  
+💼 LinkedIn: 
+Elisa Nur Syafiatul Mufida 
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elisanurmufida)
