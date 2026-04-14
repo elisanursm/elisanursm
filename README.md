@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analyst;Advanced+Analytics+%7C+Machine+Learning;NLP+%7C+Knowledge+Graph+%7C+Optimization"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9CA3AF&size=25&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Business+Analytics;Data-driven+Insights+%26+Decision+Support;Data+Science;Machine+Learning+%7C+Knowledge+Graph"/>
 </p>
 
 ---
@@ -16,12 +16,19 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ---
 
 ## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
-![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-8E44AD?style=for-the-badge)
 
+### 🧠 Core
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Analytics & Visualization
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insight%20Generation-2C3E50?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Analysis%20%26%20Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Dashboarding-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white)
+
+### 🤖 Advanced Analytics
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Modeling-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-Graph%20Analytics-8E44AD?style=for-the-badge)
 ---
 
 ## 📊 Core Expertise
@@ -58,10 +65,10 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ## 📫 Contact Me
 
 📧 Email  
-[![Contact](https://img.shields.io/badge/Contact-elisanurmufida%40gmail.com-ea4335?style=for-the-badge)](mailto:elisanurmufida@gmail.com)
+[![Email](https://img.shields.io/badge/-elisanurmufida%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:elisanurmufida@gmail.com)
 
 📱 WhatsApp  
-[![Contact](https://img.shields.io/badge/Contact-%2B62%20856--4923--5815-25D366?style=for-the-badge)](https://wa.me/6285649235815)
+[![WhatsApp](https://img.shields.io/badge/-+62%20856--4923--5815-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=555555)](https://wa.me/6285649235815)
 
 💼 LinkedIn  
-[![Profile](https://img.shields.io/badge/Profile-Elisa%20Nur%20Syafiatul%20Mufida-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/elisanurmufida)
+[![LinkedIn](https://img.shields.io/badge/-Elisa%20Nur%20Syafiatul%20Mufida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/elisanurmufida)
