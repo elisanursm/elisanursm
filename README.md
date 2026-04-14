@@ -20,9 +20,7 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-BERT-blue?style=for-the-badge)
 ![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-8E44AD?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-2opt%20%7C%20ACO%20%7C%20PSO-red?style=for-the-badge)
 
 ---
 
@@ -60,10 +58,10 @@ Master’s graduate in Information Systems with hands-on experience in both busi
 ## 📫 Contact Me
 
 📧 Email  
-[![Email](https://img.shields.io/badge/-elisanurmufida%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555)](mailto:elisanurmufida@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-elisanurmufida%40gmail.com-ea4335?style=for-the-badge)](mailto:elisanurmufida@gmail.com)
 
 📱 WhatsApp  
-[![WhatsApp](https://img.shields.io/badge/-+62%20856--4923--5815-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=555555)](https://wa.me/6285649235815)
+[![Contact](https://img.shields.io/badge/Contact-%2B62%20856--4923--5815-25D366?style=for-the-badge)](https://wa.me/6285649235815)
 
 💼 LinkedIn  
-[![LinkedIn](https://img.shields.io/badge/-Elisa%20Nur%20Syafiatul%20Mufida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/elisanurmufida)
+[![Profile](https://img.shields.io/badge/Profile-Elisa%20Nur%20Syafiatul%20Mufida-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/elisanurmufida)
