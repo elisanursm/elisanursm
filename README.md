@@ -29,10 +29,10 @@ Passionate about transforming data into actionable insights and building intelli
 - Natural Language Processing (NLP)
 
 ---
-
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elisanursm&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=elisanursm&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisanursm&layout=compact&theme=tokyonight)
 ---
 
 ## 🤝 Open to
